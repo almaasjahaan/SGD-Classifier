@@ -28,11 +28,7 @@ RegisterNumber:  212224230016
 ```
 
 ```
-/*
-Program to implement the prediction of iris species using SGD Classifier.
-Developed by: SRIRANJANI.M
-RegisterNumber:  212224040327
-*/
+
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
 from sklearn.model_selection import train_test_split
